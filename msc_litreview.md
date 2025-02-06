@@ -36,7 +36,7 @@ concrete worflows to translate digitally borne data (e.g. camera footage) into g
 
 **Supervision**
 
-- Emma Polman & Emiel van Loon
+Emma Polman & Emiel van Loon
 
 ### How is the relation between soil moisture, soil temperature and grazing intensity been described and/or modeled?
 
@@ -57,8 +57,7 @@ the relevant literature systematically.
 - Wachiye S, Pellikka P, Rinne J, Heiskanen J, Abwanda S, Merbold L.
   Effects of livestock and wildlife grazing intensity on soil carbon dioxide flux in the savanna grassland of Kenya. Agriculture, Ecosystems & Environment. 2022;325:107713. https://doi.org/10.1016/j.agee.2021.107713
 
-  **Supervision**
+**Supervision**
 
-- Emma Polman & Emiel van Loon
+Emma Polman & Emiel van Loon
 
-- ![image](https://github.com/user-attachments/assets/3b3b114d-c0a7-4153-85ea-97cce00b64f0)

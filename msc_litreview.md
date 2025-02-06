@@ -53,10 +53,12 @@ the relevant literature systematically.
 - Mayel S, Jarrah M, Kuka K.
   How does grassland management affect physical and biochemical properties of temperate grassland soils? A review study. Grass and Forage Science. 2021;76(2):215–44. https://dx.doi.org/10.1111/gfs.12512 
 - Odriozola I, Laskurain NA, Aldezabal A.
-  Livestock grazing modifies the effect of environmental factors on soil temperature and water content in a temperate grassland. Geoderma. 2014;235–236:347–54. https://dx.doi.org/10.1016/j.geoderma.2014.08.002![image](https://github.com/user-attachments/assets/3b3b114d-c0a7-4153-85ea-97cce00b64f0)
+  Livestock grazing modifies the effect of environmental factors on soil temperature and water content in a temperate grassland. Geoderma. 2014;235–236:347–54. https://dx.doi.org/10.1016/j.geoderma.2014.08.002
 - Wachiye S, Pellikka P, Rinne J, Heiskanen J, Abwanda S, Merbold L.
   Effects of livestock and wildlife grazing intensity on soil carbon dioxide flux in the savanna grassland of Kenya. Agriculture, Ecosystems & Environment. 2022;325:107713. https://doi.org/10.1016/j.agee.2021.107713
 
   **Supervision**
 
 - Emma Polman & Emiel van Loon
+
+- ![image](https://github.com/user-attachments/assets/3b3b114d-c0a7-4153-85ea-97cce00b64f0)

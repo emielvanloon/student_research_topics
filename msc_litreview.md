@@ -12,6 +12,8 @@ Together with Staatsbosbeheer (the terrain managing organisation in the OVP) the
 One of the topics under investigation is the interaction between grazing by various mammals and birds, vegetation dynamics, soil ecology and organic matter dynamnics.
 In support of this research, the following two questions have been identified to be answered on the basis of literature.
 
+---
+
 ### How is grazing intensity quantified? 
 
 ![image](https://github.com/user-attachments/assets/8254d9e1-b44b-4423-8715-c47f09f79864)
@@ -37,6 +39,8 @@ concrete worflows to translate digitally borne data (e.g. camera footage) into g
 **Supervision**
 
 Emma Polman & Emiel van Loon
+
+---
 
 ### How is the relation between soil moisture, soil temperature and grazing intensity been described and/or modeled?
 

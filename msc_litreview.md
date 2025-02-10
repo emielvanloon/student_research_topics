@@ -44,8 +44,7 @@ Emma Polman & Emiel van Loon
 
 ### How is the relation between soil moisture, soil temperature and grazing intensity been described and/or modeled?
 
-We are interested in the relation between soil organic matter change and grazing, also considering mediating/moderating variables like standing plant biomass, 
-species composition, soil properties and weather (mainly temperature and rainfall).
+One of the research focuses in the OVP is the relation between soil organic matter change and grazing, also considering mediating/moderating variables like standing plant biomass, species composition, soil properties and weather (mainly temperature and rainfall).
 We are conducting experiments at OVP to test the effect sizes of some expected relations in this system. As part of the evaluation of the experimental results, we
 will make comparisons findings from the scientific literature as well as existing models which include these interactions. The proposed literature study will help us to screen and evaluate
 the relevant literature systematically.
@@ -65,3 +64,24 @@ the relevant literature systematically.
 
 Emma Polman & Emiel van Loon
 
+---
+
+![image](https://github.com/user-attachments/assets/41600460-2009-4091-bf4a-e5bb6a15f20b)
+
+### Validating large-scale biodiversity assessment models.
+
+Biodiverity assessment models (like GLOBIO3 and GLOBIO4) are important policy instruments. At the same time they make predictions about complex systems at large scales. Hence, it is not easy to ensure that these models make the correct predictions for the right reasons. 
+It starts already with the quantification of the core concept, biodiversity (and biodiversity change). It is being expressed in many different ways and the way it is expressed by an assessment model may not match with available field inventories. There is moreover often a scale mismatch between model and field inventory (assessment models use typically coarse spatial untits of e.g. 1 square km, field observations refer to points or irregularly shaped landscape untis). Finally, it is usually not possible to conduct experiments at the scale of ecosystems and therefore relations that are found to explain biodiversity change are based on observational data, hence these relations are correlational but not necessarily causal. It is therefore very hard to check if a mechanism that is assumed in a biodiversity assessment model is in fact correct - one would need a series of correct predictions over a range of varying conditions. 
+
+We wonder if the aforementioned biodiversity assessment models have been validated at all; and if so, how. The aim of this literature review is to answer these questions.
+
+**Literature to get started**
+
+- the publications at https://www.globio.info/publications
+- Kuipers KJJ, Sim S, Hilbers JP, Berg SK van den, Jonge MMJ de, Trendafilova K, et al. Land use diversification may mitigate on-site land use impacts on mammal populations and assemblages. Global Change Biology. 2023 Nov 1;29(22):6234–47.
+- Myers BJE, Weiskopf SR, Shiklomanov AN, Ferrier S, Weng E, Casey KA, et al. A New Approach to Evaluate and Reduce Uncertainty of Model-Based Biodiversity Projections for Conservation Policy Formulation. BioScience. 2021 Dec 1;71(12):1261–73.
+
+
+**Supervision**
+
+Emma Polman & Emiel van Loon

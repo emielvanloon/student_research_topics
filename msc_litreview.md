@@ -14,9 +14,9 @@ In support of this research, the following two questions have been identified to
 
 ---
 
-### How is grazing intensity quantified? 
-
 ![image](https://github.com/user-attachments/assets/8254d9e1-b44b-4423-8715-c47f09f79864)
+
+### How is grazing intensity quantified? 
 
 Different grazers are present at the OVP grasslands. We would like to quantify the grazing intensities of these species to understand their impact. 
 A first step is to determine the grazing rates of individual animals and generalize that to species or even species groups.
@@ -78,10 +78,10 @@ We wonder if the aforementioned biodiversity assessment models have been validat
 **Literature to get started**
 
 - the publications at https://www.globio.info/publications
-- Kuipers KJJ, Sim S, Hilbers JP, Berg SK van den, Jonge MMJ de, Trendafilova K, et al. Land use diversification may mitigate on-site land use impacts on mammal populations and assemblages. Global Change Biology. 2023 Nov 1;29(22):6234–47.
-- Myers BJE, Weiskopf SR, Shiklomanov AN, Ferrier S, Weng E, Casey KA, et al. A New Approach to Evaluate and Reduce Uncertainty of Model-Based Biodiversity Projections for Conservation Policy Formulation. BioScience. 2021 Dec 1;71(12):1261–73.
+- Kuipers KJJ, Sim S, Hilbers JP, Berg SK van den, Jonge MMJ de, Trendafilova K, et al. Land use diversification may mitigate on-site land use impacts on mammal populations and assemblages. Global Change Biology. 2023 Nov 1;29(22):6234–47. https://doi.org/10.1111/gcb.16932
+- Myers BJE, Weiskopf SR, Shiklomanov AN, Ferrier S, Weng E, Casey KA, et al. A New Approach to Evaluate and Reduce Uncertainty of Model-Based Biodiversity Projections for Conservation Policy Formulation. BioScience. 2021 Dec 1;71(12):1261–73. https://doi.org/10.1093/biosci/biab094
 
 
 **Supervision**
 
-Emma Polman & Emiel van Loon
+Flavia Aschi & Emiel van Loon

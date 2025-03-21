@@ -20,12 +20,12 @@ In support of this research, the following two questions have been identified to
 
 Different grazers are present at the OVP grasslands. We would like to quantify the grazing intensities of these species to understand their impact. 
 A first step is to determine the grazing rates of individual animals and generalize that to species or even species groups.
-Basic animal physiology and ecology learns us that there are large differences in grazing rates between species, and that there might also be relevant differences between individuals. 
+Basic animal physiology and ecology teach us that there are large differences in grazing rates between species, and that there might also be relevant differences between individuals. 
 Besides, there are species which pause regularly (for digestion or due to disturbance).
 For these reasons it may not be trivial to translate presence of grazers into grazing rates and intensities. 
 This review aims at finding and summarizing known methods for determining grazing rates from the literature. 
 We are interested in both the conceptual ideas (and models) to translate presence or activity by a species into grazing rates and
-concrete worflows to translate digitally borne data (e.g. camera footage) into grazing rate.
+concrete workflows to translate digitally borne data (e.g. camera footage) into grazing rate.
 
 **Literature to get started**
 
@@ -71,7 +71,7 @@ Emma Polman & Emiel van Loon
 ### Validating large-scale biodiversity assessment models.
 
 Biodiverity assessment models (like GLOBIO3 and GLOBIO4) are important policy instruments. At the same time they make predictions about complex systems at large scales. Hence, it is not easy to ensure that these models make the correct predictions for the right reasons. 
-It starts already with the quantification of the core concept, biodiversity (and biodiversity change). It is being expressed in many different ways and the way it is expressed by an assessment model may not match with available field inventories. There is moreover often a scale mismatch between model and field inventory (assessment models use typically coarse spatial untits of e.g. 1 square km, field observations refer to points or irregularly shaped landscape untis). Finally, it is usually not possible to conduct experiments at the scale of ecosystems and therefore relations that are found to explain biodiversity change are based on observational data, hence these relations are correlational but not necessarily causal. It is therefore very hard to check if a mechanism that is assumed in a biodiversity assessment model is in fact correct - one would need a fairly long series of *good* predictions over a range of varying conditions to have solid evidence for that. 
+It starts already with the quantification of the core concept, biodiversity (and biodiversity change). It is being expressed in many different ways and the way it is expressed by an assessment model may not match with available field inventories. There is moreover often a scale mismatch between model and field inventory (assessment models use typically coarse spatial units of e.g. 1 square km, field observations refer to points or irregularly shaped landscape units). Finally, it is usually not possible to conduct experiments at the scale of ecosystems and therefore relations that are found to explain biodiversity change are based on observational data, hence these relations are correlational but not necessarily causal. It is therefore very hard to check if a mechanism that is assumed in a biodiversity assessment model is in fact correct - one would need a fairly long series of *good* predictions over a range of varying conditions to have solid evidence for that. 
 
 We wonder if the aforementioned biodiversity assessment models have been validated at all; and if so, how. The aim of this literature review is to answer these questions.
 
